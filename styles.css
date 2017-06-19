@@ -1,3 +1,7 @@
 body {
   background: yellow
+  color: white;
+}
+h1 {
+  font-size: 72px;
 }
